@@ -11,7 +11,7 @@ $(document).ready(function () {
       title: "Keynote on XYZ",
       image: "assets/images/event/image2.jpg",
     },
-    { title: "Group Picture", image: "assets/images/event/image1.jpg" },
+    { title: "Group Picture", image: "assets/images/event/imageshizukachatbot.jpg" },
     {
       title: "Presentation",
       image: "assets/images/event/image4.jpg",
