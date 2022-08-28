@@ -19,6 +19,7 @@ const projects = [
     description: "Telegram Voice Chat Music Player 🎵.",
     tagimg: "https://telegra.ph/file/46423f1a648313468a047.png",
     Previewlink: "https://telegram.dog/VeracityMusicBot",
+    Githublink: "",
   },
   {
     title: "Telegram Member Adder",
@@ -42,6 +43,7 @@ const projects = [
     description: "An Instagram chatbot powered by brainshop API.",
     tagimg: "https://telegra.ph/file/fb796893cf1fe0e75fe31.png",
     Previewlink: "",
+    Githublink: "",
   },
 ];
 
