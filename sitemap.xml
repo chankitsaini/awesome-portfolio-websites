@@ -6,23 +6,23 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.chankit.live/</loc>
+  <loc>https://www.chankit.me/</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.chankit.live/index.html</loc>
+  <loc>https://www.chankit.me/index.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.chankit.live/experience.html</loc>
+  <loc>https://www.chankit.me/experience.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.chankit.live/projects.html</loc>
+  <loc>https://www.chankit.me/projects.html</loc>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.chankit.live/education.html</loc>
+  <loc>https://www.chankit.me/education.html</loc>
   <changefreq>daily</changefreq>
 </url>
 

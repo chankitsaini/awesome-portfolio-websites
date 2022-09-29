@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.chankit.live/sitemap.xml
+Sitemap: https://www.chankit.me/sitemap.xml
