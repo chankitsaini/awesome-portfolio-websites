@@ -11,7 +11,7 @@ const projects = [
     description: "A telegram group management bot in python.",
     tagimg: "https://telegra.ph/file/46423f1a648313468a047.png",
     Previewlink: "https://telegram.dog/LyciaRobot",
-    Githublink: "https://github.com/ChankitSaini/LyciaRobot",
+    Githublink: "https://github.com/chankitsaini/LyciaRobot",
   },
   {
     title: "Veracity Music Bot",
@@ -27,7 +27,7 @@ const projects = [
     description: "A telegram member scraper-adder script for groups in telethon.",
     tagimg: "https://telegra.ph/file/46423f1a648313468a047.png",
     Previewlink: "https://replit.com/@ChankitSaini/GenerateStringSession",
-    Githublink: "https://github.com/ChankitSaini/Telegram-Scraper-Adder",
+    Githublink: "https://github.com/chankitsaini/Telegram-Scraper-Adder",
   },
   {
     title: "Shizuka",
@@ -35,7 +35,7 @@ const projects = [
     description: "A telegram chatbot powered by brainshop API.",
     tagimg: "https://telegra.ph/file/46423f1a648313468a047.png",
     Previewlink: "https://telegram.dog/ShizukaChatbot",
-    Githublink: "https://github.com/ChankitSaini/ShizukaChatBot",
+    Githublink: "https://github.com/chankitsaini/ShizukaChatBot",
   },
   {
     title: "Lycia Chatbot",
